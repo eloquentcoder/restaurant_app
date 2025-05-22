@@ -27,9 +27,7 @@ cd test_2
 
 2. Install dependencies:
 ```bash
-pnpm install
-# or
-npm install
+npm install --legacy-peer-deps
 ```
 
 3. Set up your environment variables:
